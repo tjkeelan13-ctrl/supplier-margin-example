@@ -1,0 +1,7 @@
+"Catalog data row","SKU (spreadsheet-safe text)","Status","Selling price","Supplier cost","Gross margin percent","Target-floor price","Notes"
+"1","'00124","Below target","20","14","30.0000","23.34","Unit-cost gross margin only. Excludes other expenses. Review before repricing."
+"2","PIN-BLUE","At/above target","12","4","66.6667","6.67","Unit-cost gross margin only. Excludes other expenses. Review before repricing."
+"3","MUG-01","Below target","24","15","37.5000","25","Unit-cost gross margin only. Excludes other expenses. Review before repricing."
+"4","TEE-M","At/above target","30","12","60.0000","20","Unit-cost gross margin only. Excludes other expenses. Review before repricing."
+"5","OLD-99","No supplier match","","","","","Exact, case-sensitive SKU match not found."
+"6","DUP-1","Duplicate supplier SKU","","","","","Resolve ambiguous supplier rows."
